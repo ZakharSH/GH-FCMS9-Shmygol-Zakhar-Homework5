@@ -1,0 +1,267 @@
+P {
+  margin: 5px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.conteiner {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+header {
+  background-image: url('../image/main-macbook.png');
+}
+.header {
+  min-height: 30vh;
+  background: rgba(105, 105, 105, 0.7);
+}
+.logo {
+  background-image: url('../image/main-logo.png');
+  background-repeat: no-repeat;
+  width: 165px;
+  height: 20px;
+  margin-top: 30px;
+}
+.menu {
+  margin-top: 30px;
+  display: flex;
+}
+.menu-img {
+  background-image: url('../image/menu.png');
+  width:20px;
+  height: 20px;
+ margin-left: 10px;
+}
+.menu-text {
+  color: white;
+}
+.menulogo {
+  display:flex;
+  justify-content: space-around;
+}
+.main-motto {
+  display: flex;
+  justify-content:center;
+}
+
+.motto {
+  display: flex;
+  justify-content: center;
+  font-size: 300%;
+  color: white;
+}
+.colour {
+  color: #FF4500;
+  margin-left: 10px;
+}
+.lorem {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size:120%;
+
+}
+.button : hover {
+  color: #FF4500;
+}
+.button {
+  width: 150px;
+  height:30px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin: 10px;
+  margin-top: 20px;
+
+}
+.main-button {
+  display:  flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.b-text {
+  font-size: 80%;
+  display:flex;
+  justify-content: center;
+  margin-top: 10px;
+  color: white;
+
+}
+.main-arrow {
+  display: flex;
+  justify-content: center;
+}
+.second-arrow {
+  width: 40px;
+  height: 40px;
+  background-image: url('../image/arrow.png');
+  background-repeat: no-repeat;
+}
+menu {
+  padding: 0;
+  margin: 0 auto;
+}
+.main-nav {
+  display: flex;
+  justify-content: center;
+}
+.second-nav {
+  display: flex;
+}
+.design {
+  height: 100px;
+  width: 100px;
+  margin: 60px;
+}
+.design-circle {
+  border: 1px solid grey;
+  border-radius: 60px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.design-img {
+  height: 40px;
+}
+.design-text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 140px;
+  font-size: 80%;
+}
+.p-text {
+  font-size: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.main-email {
+  background-image: url(../image/tablet.png);
+  min-height: 20vh;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  width:350px;
+  height: 30px;
+  border-radius: 10px;
+
+}
+.subscribe {
+  background-color:#FF4500;
+  width: 150px;
+  height:36px;
+  display: flex;
+  margin-left:30px;
+  border-radius: 10px;
+  justify-content: center;
+  color: white;
+}
+.second-our-works {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.second-description {
+  display: flex;
+  justify-content: center;
+}
+.example-row1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.example-row2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.example-picture {
+  margin-left: 30px;
+  border-radius: 10px;
+}
+.showmore {
+  display: flex;
+  justify-content:center;
+  margin-top: 30px;
+}
+
+.button-showmore {
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 80%;
+}
+section {
+  background-image: url('../image/woman.png');
+  margin-top: 40px;
+}
+
+.main-clients {
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+}
+.second-clients {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 120%;
+}
+.avatar {
+  display: flex;
+  justify-content: center;
+}
+.left-arrows , .right-arrows {
+  align-items: center;
+}
+.name {
+  display: flex;
+  justify-content: center;
+}
+.headline {
+  display: flex;
+  justify-content: center;
+}
+.designers {
+  display: flex;
+  justify-content: center;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.points {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.main-sayhello {
+  min-height: 30vh;
+  background-image: url(../image/city.png);
+}
+.footer {
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  background-image: url(../image/background.png);
+
+}
